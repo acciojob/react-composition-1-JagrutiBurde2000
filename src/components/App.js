@@ -9,6 +9,7 @@ const Tabs = ({ tabs }) => {
     setActiveTab(index);
   };
   
+  
 
   return (
     <div>
