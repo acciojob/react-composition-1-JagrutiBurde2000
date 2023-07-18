@@ -37,7 +37,6 @@ const App = () => {
     { title: 'Tab 3', content: 'This is content for Tab 3.' },
   ];
 
-
   return (
     <div>
    
