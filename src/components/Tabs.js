@@ -9,7 +9,7 @@ const Tabs = ({ tabs }) => {
     const handleTabClick = (content) => {
         setTabClicked(content);
     };
-    yr
+    
   
     return (
       <div>
